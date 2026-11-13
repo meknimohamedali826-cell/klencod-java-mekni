@@ -1,4 +1,4 @@
-package com.mekni.myapp; // غيّر هذا السطر ليطابق مشروعك
+package com.example.myapp; // غيّر هذا السطر ليطابق مشروعك
 
 import android.app.Activity;
 import android.app.AlertDialog;
